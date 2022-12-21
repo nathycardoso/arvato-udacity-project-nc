@@ -15,7 +15,7 @@ Please find more datails about the project in blog post:
 
 ### 2. Technical overview:
 
-Following concepts implemented and covered in detail in the notebook:
+Following concepts implemented and covered in detail in the notebook: https://medium.com/@nathalia.cardoso/udacity-customer-segmentation-for-arvato-financial-services-a4257d61b150
 
 Data Exploration & Cleansing
 Dimensionality Reduction
