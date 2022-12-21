@@ -33,3 +33,10 @@ All of the requirements are in the jupiter notebook.
 ### 4. Libraries Used
 you can run the requirements.txt file with pip install -r requirements.txt
 
+### 5. File descriptions
+
+Azdias.csv — Demographics data for the general population of Germany (891211 x 366).
+Customers.csv — Demographics data for customers of the German mail-order company (191652 x 369).
+Mailout_train.csv — Demographics data for individuals who were targets of a marketing campaign (42982 x 367).
+Mailout_test.csv — Demographics data for individuals who were targets of a marketing campaign (42833 x 366).
+
