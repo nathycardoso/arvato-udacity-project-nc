@@ -28,4 +28,4 @@ Scoring and submisstion to Kaggle
 
 
 ### 3. Requirements
-All of the requirements are captured in requirements.txt. Run: pip install -r requirements.txt
+All of the requirements are in the jupiter notebook.
