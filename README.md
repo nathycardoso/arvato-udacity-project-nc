@@ -29,3 +29,13 @@ Scoring and submisstion to Kaggle
 
 ### 3. Requirements
 All of the requirements are in the jupiter notebook.
+
+### 4. Libraries Used
+-numpy 
+-pandas 
+-matplotlib
+-seaborn 
+-sklearn
+-scipy 
+-time 
+
