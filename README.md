@@ -31,11 +31,5 @@ Scoring and submisstion to Kaggle
 All of the requirements are in the jupiter notebook.
 
 ### 4. Libraries Used
--numpy 
--pandas 
--matplotlib
--seaborn 
--sklearn
--scipy 
--time 
+you can run the requirements.txt file with pip install -r requirements.txt
 
